@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ada5611a.css",
+    "main.js": "/static/js/main.83e92620.js",
+    "static/media/india1.png": "/static/media/india1.ba5778f51dff1488ee9b.png",
+    "static/media/himachal-dolls.jpg": "/static/media/himachal-dolls.d39a608536cbd7e4af70.jpg",
+    "static/media/newsletter-bg.jpeg": "/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/aipen.jpg": "/static/media/aipen.91b9a02299228e355b08.jpg",
+    "index.html": "/index.html",
+    "main.ada5611a.css.map": "/static/css/main.ada5611a.css.map",
+    "main.83e92620.js.map": "/static/js/main.83e92620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada5611a.css",
+    "static/js/main.83e92620.js"
+  ]
+}
